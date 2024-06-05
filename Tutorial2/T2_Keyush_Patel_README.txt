@@ -232,3 +232,6 @@ Copy and paste your code on the lines mentioned
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## Special Note:
+* Just made the push to the git because I mistakenly deleted the tutorial 2 directory on GitHub
