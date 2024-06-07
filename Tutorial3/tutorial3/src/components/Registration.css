@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    background-color: seagreen;
+    color: white;
+    font-size: larger;
+  }
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
