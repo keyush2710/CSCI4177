@@ -9,8 +9,8 @@
 
 * *Date Created*: 06 06 2024
 * *Last Modification Date*: 06 06 2024
-* *Lab URL*: <>
-* *Git tutorial 3 URL*: <>
+* *Lab URL*: <https://musical-tulumba-737b3d.netlify.app/>
+* *Git tutorial 3 URL*: <https://git.cs.dal.ca/keyush/csci4177_5709_tutorials/-/tree/main/Tutorial3?ref_type=heads>
 
 
 ## Authors
