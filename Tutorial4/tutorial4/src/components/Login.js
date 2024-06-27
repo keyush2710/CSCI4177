@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, {useState} from 'react';
+import {useNavigate} from 'react-router-dom';
 import './Login.css'; 
 
 function Login() {
@@ -15,7 +15,7 @@ function Login() {
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ username: email, password: password }),
+      body: JSON.stringify({username: email, password: password}),
     });
 
     if (response.ok) {

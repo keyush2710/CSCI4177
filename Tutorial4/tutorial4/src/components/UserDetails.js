@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import React, {useEffect, useState} from 'react';
+import {useParams} from 'react-router-dom';
 import './UserDetails.css';
 
 function UserDetails() {
-  const { id } = useParams();
+  const {id} = useParams();
   const [user, setUser] = useState(null);
 
   useEffect(() => {
