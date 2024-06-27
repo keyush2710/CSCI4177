@@ -9,8 +9,8 @@
 
 * *Date Created*: 27 06 2024
 * *Last Modification Date*: 27 06 2024
-* *Lab URL*: <>
-* *Git tutorial 4 URL*: <>
+* *Lab URL*: <https://main--starlit-belekoy-165925.netlify.app/>
+* *Git tutorial 4 URL*: <https://git.cs.dal.ca/keyush/csci4177_5709_tutorials/-/tree/main/Tutorial4?ref_type=heads>
 
 
 ## Authors
