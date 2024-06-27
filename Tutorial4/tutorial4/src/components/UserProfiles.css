@@ -1,0 +1,12 @@
+#users{
+    display: flex;
+    gap:25px;
+}
+#user_name{
+    color:white;
+}
+#profileLink img{
+    width: 150px;
+    height: 150px;
+
+}

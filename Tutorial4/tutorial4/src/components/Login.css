@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 80vw;
+    margin: auto;
+  }
+   
+  h2 {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  form{
+    display:flex;
+    flex-direction: column;
+    width: 30vw;
+    margin: auto;
+  }
+  input{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 3px;
+  }
+    
+  button {
+    padding: 5px;
+    align-items: center;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    border-radius: 3px;
+  }
+
+  
