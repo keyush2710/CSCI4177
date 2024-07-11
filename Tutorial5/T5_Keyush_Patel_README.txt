@@ -10,7 +10,7 @@
 * *Date Created*: 11 07 2024
 * *Last Modification Date*: 11 07 2024
 * *Lab URL*: <>
-* *Git tutorial 4 URL*: <>
+* *Git tutorial 5 URL*: <https://git.cs.dal.ca/keyush/csci4177_5709_tutorials/-/tree/main/Tutorial5?ref_type=heads>
 
 
 ## Authors
