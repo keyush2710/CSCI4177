@@ -2,7 +2,6 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
 
-const hostname = '127.0.0.1';
 const port =  process.env.PORT || 3000;
 let id=1;
 
@@ -88,6 +87,6 @@ app.use((req, res) => {
     });
 });
 
-app.listen(port, hostname, () => {
+app.listen(port,() => {
   console.log(`Server is running`);
 });
